@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"Libreria","l":"esPrimo()"},{"p":"<Unnamed>","c":"Libreria","l":"factorial()"},{"p":"<Unnamed>","c":"Libreria","l":"Libreria(int)","url":"%3Cinit%3E(int)"},{"p":"<Unnamed>","c":"Libreria","l":"num"}]
